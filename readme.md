@@ -29,8 +29,6 @@ API / App – FastAPI / Flask (for serving recommendations)
 Frontend (optional) – Streamlit / React for user interaction
 
 
-git clone https://github.com/Naman123457/semantic-book-recommender.git
-cd semantic-book-recommender
 
 python -m venv venv
 source venv/bin/activate  # On Mac/Linux
